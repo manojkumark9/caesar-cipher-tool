@@ -1,0 +1,5 @@
+
+{
+  "name": "Caesar Cipher Tool",
+  "description": "A web application to encrypt and decrypt text using the Caesar Cipher algorithm. Users can input a message and a shift value to perform the operations."
+}
